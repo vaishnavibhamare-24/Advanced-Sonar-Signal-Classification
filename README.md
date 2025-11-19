@@ -136,7 +136,7 @@ streamlit run app/streamlit_app.py
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/sonar-classification.git
+git clone https://github.com/vaishnavibhamare-24/advanced-sonar-classification.git
 cd sonar-classification
 
 2️⃣ Install dependencies
