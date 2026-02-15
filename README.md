@@ -172,5 +172,6 @@ Clear interpretability using SHAP
 ### 🙌 Author
 
 Vaishnavi Bhamare
+Data Science Enthusiast 
 Master’s in Advanced Data Analytics, University of North Texas
-AI/ML & Data Science Enthusiast
+
